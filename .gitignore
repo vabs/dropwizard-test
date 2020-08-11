@@ -1,0 +1,34 @@
+# Mac
+.DS_Store
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+dependency-reduced-pom.xml
+*.zip
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# logging
+log/
+
+deploy/
+
+pds.local.yml
+
+pdslogs/
+
+out/*
+
+# VS Code
+.vscode/*
+
+# Jenkins swapfile
+.Jenkinsfile.swp

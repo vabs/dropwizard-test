@@ -1,0 +1,10 @@
+logging:
+  level: INFO
+  loggers:
+    com.invasa: DEBUG
+
+
+server:
+  gzip:
+    enabled: true
+    bufferSize: 8KB
